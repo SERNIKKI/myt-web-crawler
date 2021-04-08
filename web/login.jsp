@@ -12,7 +12,7 @@
     <title>NIKKI的爬虫</title>
     <style type="text/css">
         body{
-            background-image: url("https://7ny.mxlbs.cn/2020-02-28/3114be1c0fd1b8ea50e0f4f254edcd1c.jpg");
+            background-image: url("https://cdn.jsdelivr.net/gh/sernikki/MyMp3/img/search.png");
             background-size: cover;
         }
         h1{
