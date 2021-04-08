@@ -25,8 +25,8 @@ public class LoginServlet extends javax.servlet.http.HttpServlet {
                 //选择驱动类，连接地址、账号密码，连接MySQL
                 String driverClass="com.mysql.jdbc.Driver";
                 String url="jdbc:mysql://localhost:3306/nikki?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai";
-                String sqlusername="root";
-                String sqlpassword="remilia7";
+                String sqlusername="****";
+                String sqlpassword="****";
                 Connection conn = DriverManager.getConnection(url, sqlusername,
                         sqlpassword);
                 String sql = "select * from user where user_name = ? and user_password = ?";
