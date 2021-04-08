@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="javaweb">
+    <output-path>E:/tomcat</output-path>
+    <root id="archive" name="javaweb.war">
+      <element id="artifact" artifact-name="javaweb:war exploded" />
+      <element id="module-source" name="javaweb" />
+    </root>
+  </artifact>
+</component>

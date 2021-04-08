@@ -1,0 +1,69 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaweb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="javaweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaweb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jl1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jta-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.ejb.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.jms.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jna-4.1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/guava-21.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jsoup-1.11.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.16.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/quartz-1.8.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/HikariCP-3.2.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/httpcore-4.4.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.resource.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-forms.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-common.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-swing.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-exec-1.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/httpclient-4.5.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.annotation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.25.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/cglib-nodep-3.2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.persistence.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.transaction.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jna-platform-4.1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/selenium-api-3.4.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-simple-1.7.25.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/phantomjsdriver-1.4.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-forms-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-forms-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-core-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-core-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/checker-framework-1.7.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-common-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jgoodies-common-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-swing-javadoc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/miglayout-swing-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/logback-core-1.3.0-alpha5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2-sources.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.35.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.39.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/selenium-remote-driver-3.4.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/selenium-server-standalone-3.9.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
